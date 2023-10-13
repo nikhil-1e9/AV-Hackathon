@@ -1,2 +1,6 @@
 # AV-Hackathon
 Solution to the IND vs AUS ML hackathon by Analytics Vidhya
+
+- [Full solution document](AV_Sledge_hack_solution_doc_nikhil1e9.docx)
+- [Code file](AV_match_prediction.ipynb)
+- [Final predictions](match_preds_final.csv)
