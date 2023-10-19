@@ -1,0 +1,47 @@
+Team,Score,Overs,Target,RPO,Inns,Result,Opposition,Match date,Match ID
+Australia,270/6,50.0,,5.40,1,won,v India,1987-10-09,ODI # 453
+India,269,49.5,271.0,5.39,2,lost,v Australia,1987-10-09,ODI # 453
+Australia,235/9,50.0,,4.70,1,won,v Zimbabwe,1987-10-13,ODI # 456
+Zimbabwe,139,42.4,236.0,3.25,2,lost,v Australia,1987-10-13,ODI # 456
+Australia,241/6,50.0,,4.82,1,won,v West Indies,1989-10-21,ODI # 578
+West Indies,142,40.3,242.0,3.50,2,lost,v Australia,1989-10-21,ODI # 578
+West Indies,221,49.2,,4.47,1,lost,v India,1994-10-23,ODI # 936
+India,225/6,48.2,222.0,4.65,2,won,v West Indies,1994-10-23,ODI # 936
+New Zealand,286/9,50.0,,5.72,1,lost,v Australia,1996-03-11,ODI # 1080
+Australia,289/4,47.5,287.0,6.04,2,won,v New Zealand,1996-03-11,ODI # 1080
+Pakistan,327/5,50.0,,6.54,1,won,v India,1997-05-21,ODI # 1209
+India,292,49.2,328.0,5.91,2,lost,v Pakistan,1997-05-21,ODI # 1209
+Kenya,226/8,50.0,,4.52,1,won,v Bangladesh,1998-05-23,ODI # 1333
+Bangladesh,198,46.2,226.0,4.27,2,lost,v Kenya,1998-05-23,ODI # 1333
+England,217,48.0,,4.52,1,lost,v India,2002-01-25,ODI # 1795
+India,221/6,46.4,218.0,4.73,2,won,v England,2002-01-25,ODI # 1795
+New Zealand,DNB,0.0,,-,0,n/r,v India,2003-10-23,ODI # 2051
+India,141/3,26.5,,5.25,1,n/r,v New Zealand,2003-10-23,ODI # 2051
+India,268,48.0,,5.58,1,lost,v West Indies,2007-01-27,ODI # 2487
+West Indies,270/7,43.4,269.0,6.18,2,won,v India,2007-01-27,ODI # 2487
+Asia XI,337/7,50.0,,6.74,1,won,v Africa XI,2007-06-09,ODI # 2588
+Africa XI,306,49.5,338.0,6.14,2,lost,v Asia XI,2007-06-09,ODI # 2588
+Asia XI,331/8,50.0,,6.62,1,won,v Africa XI,2007-06-10,ODI # 2589
+Africa XI,318/7,50.0,332.0,6.36,2,lost,v Asia XI,2007-06-10,ODI # 2589
+New Zealand,103,27.0,,3.81,1,lost,v India,2010-12-10,ODI # 3077
+India,107/2,21.1,104.0,5.05,2,won,v New Zealand,2010-12-10,ODI # 3077
+Kenya,69,23.5,,2.89,1,lost,v New Zealand,2011-02-20,ODI # 3101
+New Zealand,72/0,8.0,70.0,9.00,2,won,v Kenya,2011-02-20,ODI # 3101
+England,171,45.4,,3.74,1,won,v South Africa,2011-03-06,ODI # 3120
+South Africa,165,47.4,172.0,3.46,2,lost,v England,2011-03-06,ODI # 3120
+England,243,48.4,,4.99,1,won,v West Indies,2011-03-17,ODI # 3135
+West Indies,225,44.4,244.0,5.03,2,lost,v England,2011-03-17,ODI # 3135
+India,268,49.1,,5.45,1,won,v West Indies,2011-03-20,ODI # 3141
+West Indies,188,43.0,269.0,4.37,2,lost,v India,2011-03-20,ODI # 3141
+India,267/6,50.0,,5.34,1,won,v West Indies,2011-12-11,ODI # 3224
+West Indies,233,44.1,268.0,5.27,2,lost,v India,2011-12-11,ODI # 3224
+India,227/6,50.0,,4.54,1,lost,v Pakistan,2012-12-30,ODI # 3314
+Pakistan,228/4,48.1,228.0,4.73,2,won,v India,2012-12-30,ODI # 3314
+India,299/8,50.0,,5.98,1,won,v South Africa,2015-10-22,ODI # 3698
+South Africa,264/9,50.0,300.0,5.28,2,lost,v India,2015-10-22,ODI # 3698
+India,281/7,50.0,,5.62,1,won,v Australia,2017-09-17,ODI # 3910
+Australia,137/9,21.0,164.0,6.52,2,lost,v India,2017-09-17,ODI # 3910
+India,287/8,50.0,,5.74,1,lost,v West Indies,2019-12-15,ODI # 4221
+West Indies,291/2,47.5,288.0,6.08,2,won,v India,2019-12-15,ODI # 4221
+Australia,269,49.0,,5.48,1,won,v India,2023-03-22,ODI # 4545
+India,248,49.1,270.0,5.04,2,lost,v Australia,2023-03-22,ODI # 4545
